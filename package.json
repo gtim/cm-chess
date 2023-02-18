@@ -2,6 +2,7 @@
   "name": "cm-chess",
   "version": "2.4.2",
   "description": "Like chess.js, but in ES6 and can handle variations (tree-structured move history)",
+  "type": "module",
   "main": "./src/cm-chess/Chess.js",
   "scripts": {
     "postinstall": "node postinstall.js"
